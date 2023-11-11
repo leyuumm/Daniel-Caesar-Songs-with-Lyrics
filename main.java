@@ -52,7 +52,7 @@ public class main {
 
 		do{
 			System.out.println("P = play, S = Stop, R = Reset, Q = Quit");
-			System.out.println("Enter your choice: ");
+			System.out.print("Enter your choice: ");
 			response = scanner.next();
 			response = response.toUpperCase();
          
